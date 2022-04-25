@@ -45,9 +45,29 @@
 # print(h)
 
 #6
-# name = input("nhap vao ho ten: ")
+# def nhaphoten():
+#     return input("Nhap ho ten: ")
+# def string2list(hoten:str):
+#     raw_list = hoten.split(" ")
+#     final_list = []
+#     for item in raw_list:
+#         if item != '':
+#             final_list.append(item)
+#     return final_list
 
-# print(name.split(" ",2))
+# def xuatTach(hoten_list:list):
+#     print("Ho: "+ hoten_list[0])
+#     print("Ten: "+ hoten_list[-1])
+#     if len(hoten_list) == 2:
+#         print("khong co ho lot")
+#     else:
+#         print("ho lot la: ")
+#         for i in range(1,len(hoten_list)-1):
+#             print(hoten_list[i],end = " ")
+
+# hoten = nhaphoten()
+# hoten_list = string2list(hoten)
+# xuatTach(hoten_list)
 
 #7
 # String = input("Nhập vào chuỗi: ")
