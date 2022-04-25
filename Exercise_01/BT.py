@@ -45,9 +45,29 @@
 # print(h)
 
 #6
-# name = input("nhap vao ho ten: ")
+def nhaphoten():
+    return input("Nhap ho ten: ")
+def string2list(hoten:str):
+    raw_list = hoten.split(" ")
+    final_list = []
+    for item in raw_list:
+        if item != '':
+            final_list.append(item)
+    return final_list
 
-# print(name.split(" ",2))
+def xuatTach(hoten_list:list):
+    print("Ho: "+ hoten_list[0])
+    print("Ten: "+ hoten_list[-1])
+    if len(hoten_list) == 2:
+        print("khong co ho lot")
+    else:
+        print("ho lot la: ")
+        for i in range(1,len(hoten_list)-1):
+            print(hoten_list[i],end = " ")
+
+hoten = nhaphoten()
+hoten_list = string2list(hoten)
+xuatTach(hoten_list)
 
 #7
 # String = input("Nhập vào chuỗi: ")
@@ -75,16 +95,16 @@
 #     print(n,"không phải là số đối xứng")
 
 #10
-n=int(input('nhập số có 3 chữ số: '))
-def docso(so):
-    donvi=('','một ','hai ','ba ','bốn ','năm ','sáu ','bảy ','tám ','chín ','mười ','mười một ','mười hai ','mười ba ','mười bốn ','mười lăm ','mười sáu ','mười bảy ','mười tám ','mười chín ')
-    hangchuc=('','','hai mươi ','ba mươi ','bốn mươi ','năm mươi ','sáu mươi ','bảy mươi ','tám mươi ','chín mươi ')
-    if so<0:
-        return "âm " +docso(-so)
-    if so<20:
-        return  donvi[so]
-    if so<100:
-        return  hangchuc[so//10] + donvi[int(so % 10)]
-    if so<1000:
-        return donvi[so // 100]  +"trăm " + docso(int(so % 100))
-print(docso(n))
+# n=int(input('nhập số có 3 chữ số: '))
+# def docso(so):
+#     donvi=('','một ','hai ','ba ','bốn ','năm ','sáu ','bảy ','tám ','chín ','mười ','mười một ','mười hai ','mười ba ','mười bốn ','mười lăm ','mười sáu ','mười bảy ','mười tám ','mười chín ')
+#     hangchuc=('','','hai mươi ','ba mươi ','bốn mươi ','năm mươi ','sáu mươi ','bảy mươi ','tám mươi ','chín mươi ')
+#     if so<0:
+#         return "âm " +docso(-so)
+#     if so<20:
+#         return  donvi[so]
+#     if so<100:
+#         return  hangchuc[so//10] + donvi[int(so % 10)]
+#     if so<1000:
+#         return donvi[so // 100]  +"trăm " + docso(int(so % 100))
+# print(docso(n))
