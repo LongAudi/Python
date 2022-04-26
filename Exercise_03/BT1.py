@@ -16,7 +16,7 @@ def check_SNT(n):
 
 tong = 0
  
-for i in range(10):
+for i in range(2000000):
     if (check_SNT(i)):
         print(i,end=' + ')
         tong += i
