@@ -1,0 +1,120 @@
+1-Thôn Quang Châu, Xã Hoà Châu, H. Hoà Vang, TP. Đà Nẵng
+2-Lô 324 đường Kha Vạng Cân, Thôn Bầu Cầu, Xã Hoà Châu, H. Hoà Vang, TP. Đà Nẵng
+3-Thôn An Ngãi Đông, Xã Hoà Sơn, H. Hoà Vang, TP. Đà Nẵng
+4-Thửa đất số 968, tờ bản đồ số 12, Thôn La Bông, Xã Hoà Tiến, H. Hoà Vang, TP. Đà Nẵng
+5-Lô 40, tổ 8, thôn Miếu Bông, Xã Hoà Phước, H. Hoà Vang, TP. Đà Nẵng
+6-Thửa đất số 438, tờ bản đồ số 20, Thôn Hòa Khê, Xã Hoà Sơn, H. Hoà Vang, TP. Đà Nẵng
+7-Khu dân cư số 01 đường ĐT 605, Xã Hoà Châu, H. Hoà Vang, TP. Đà Nẵng
+8-Lô D8-18, đường Vũ Miên, KDC Nam Cầu Cẩm Lệ, Xã Hoà Phước, H. Hoà Vang, TP. Đà Nẵng
+9-Lô 34-35, Phân khu B2-30, Khu tái định cư Hòa Liên 5, Xã Hoà Liên, H. Hoà Vang, TP. Đà Nẵng
+10-Thôn An Ngãi Tây 1, Xã Hoà Sơn, H. Hoà Vang, TP. Đà Nẵng
+11-Tổ 06, Thôn Thạch Nham Đông, Xã Hoà Nhơn, H. Hoà Vang, TP. Đà Nẵng
+12-Lô 6 đường Trần Tử Bình, Xã Hoà Châu, H. Hoà Vang, TP. Đà Nẵng
+13-319 Huỳnh Tịnh Của, Thôn Miếu Bông, Xã Hoà Phước, H. Hoà Vang, TP. Đà Nẵng
+14-135 Nguyễn Bảo, Xã Hoà Châu, H. Hoà Vang, TP. Đà Nẵng
+15-Lô 4, B2-10 đường Âu Dương Lân, Thôn Bàu Cầu, Xã Hoà Châu, H. Hoà Vang, TP. Đà Nẵng
+16-86 Thanh Lương 24, Phường Hoà Xuân, Q. Cẩm Lệ, TP. Đà Nẵng
+17-284 Lê Thạch, Phường Hoà An, Q. Cẩm Lệ, TP. Đà Nẵng
+18-36 Trần Huấn, Phường Khuê Trung, Q. Cẩm Lệ, TP. Đà Nẵng
+19-121 Lâm Nhĩ, Phường Hoà An, Q. Cẩm Lệ, TP. Đà Nẵng
+20-17 Cách Mạng Tháng Tám, Phường Khuê Trung, Q. Cẩm Lệ, TP. Đà Nẵng
+21-123 Nguyễn Thiện Thuật, Phường Hoà An, Q. Cẩm Lệ, TP. Đà Nẵng
+22-391 Bùi Thị Ngộ, Phường Hoà Xuân, Q. Cẩm Lệ, TP. Đà Nẵng
+23-82 Vũ Đình Liên, Phường Hoà Xuân, Q. Cẩm Lệ, TP. Đà Nẵng
+24-37 Nhơn Hòa 5, Phường Hoà An, Q. Cẩm Lệ, TP. Đà Nẵng
+25-Tầng 3, 262 Xô Viết Nghệ Tĩnh, Phường Khuê Trung, Q. Cẩm Lệ, TP. Đà Nẵng
+26-Thửa đất số 606, tờ bản đồ số 14, Đường Nguyễn Xuân Hữu, Phường Hoà Thọ Đông, Q. Cẩm Lệ, TP. Đà Nẵng
+27-K36/4 Trường Sơn, Phường Hoà Thọ Tây, Q. Cẩm Lệ, TP. Đà Nẵng
+28-05 Hoàng Đạo Thành, Phường Hoà Xuân, Q. Cẩm Lệ, TP. Đà Nẵng
+29-90 Nguyễn Thượng Hiền, Phường Khuê Trung, Q. Cẩm Lệ, TP. Đà Nẵng
+30-Tầng 5, tòa nhà Thái Dương, số 278-280 Xô Viết Nghệ Tĩnh , Phường Khuê Trung, Q. Cẩm Lệ, TP. Đà Nẵng
+31-K356 H115/79 Hoàng Diệu, Phường Bình Thuận, Q. Hải Châu, TP. Đà Nẵng
+32-T2 Sunrise Building 2, số 10 Ngô Gia Tự, Phường Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+33-72 Nguyễn Thi , Phường Hoà Cường Nam, Q. Hải Châu, TP. Đà Nẵng
+34-12 Lê Thị Hồng Gấm, Phường Hoà Cường Nam, Q. Hải Châu, TP. Đà Nẵng
+35-K129/9 Hải Phòng, Phường Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+36-44 Ông Ích Kiêm, Phường Thanh Bình, Q. Hải Châu, TP. Đà Nẵng
+37-Lô 42 đường 30/4, Phường Hoà Cường Bắc, Q. Hải Châu, TP. Đà Nẵng
+38-45 Lê Quý Đôn, Phường Bình Thuận, Q. Hải Châu, TP. Đà Nẵng
+39-157 Huỳnh Tấn Phát, Phường Hoà Cường Nam, Q. Hải Châu, TP. Đà Nẵng
+40-Số 75, đường 30 tháng 4, Phường Hoà Cường Nam, Q. Hải Châu, TP. Đà Nẵng
+41-Số 33 Xô Viết Nghệ Tĩnh, Phường Hoà Cường Nam, Q. Hải Châu, TP. Đà Nẵng
+42-42 Phan Thành Tài, Phường Bình Thuận, Q. Hải Châu, TP. Đà Nẵng
+43-286A Lê Thanh Nghị, Phường Hoà Cường Nam, Q. Hải Châu, TP. Đà Nẵng
+44-127 Phan Châu Trinh, Phường Phước Ninh, Q. Hải Châu, TP. Đà Nẵng
+45-K20/5 Lý Tự Trọng, Phường Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+46-24 Phú Xuân 2, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+47-Đường A13 Khu Đô Thị Golden Hills, Phường Hoà Hiệp Nam, Q. Liên Chiểu, TP. Đà Nẵng
+48-231 Nguyễn Huy Tưởng, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+49-K119/H15/29 Phạm Như Xương, Phường Hoà Khánh Nam, Q. Liên Chiểu, TP. Đà Nẵng
+50-39 Đồng Khởi, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+51-Thửa đất số B2.14-41 và B2.14-42, KĐT Phước Lý, đường Phước Lý 4, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+52-39 Chơn Tâm 1, Phường Hoà Khánh Nam, Q. Liên Chiểu, TP. Đà Nẵng
+53-39 Tô Hiệu, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+54-151/19 Âu Cơ, Phường Hoà Khánh Bắc, Q. Liên Chiểu, TP. Đà Nẵng
+55-145/18 Nguyễn Huy Tưởng, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+56-Lô 23, B2-2, Khu TDC Foodinco, đường Đào Sư Tích, Tổ 117, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+57-02 Phú Xuân 3, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+58-25 Lương Trúc Đàm, Phường Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng
+59-131 Nam Cao, Phường Hoà Khánh Nam, Q. Liên Chiểu, TP. Đà Nẵng
+60-K44/55A Đà Sơn, Phường Hoà Khánh Nam, Q. Liên Chiểu, TP. Đà Nẵng
+61-145 Lê Quang Đạo, Phường Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+62-Lô 15-16 khu LK6 khu đô thị Hòa Quý, Phường Hoà Quý, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+63-Lô 18 - B2.23, TĐC Tân Trà, Phường Hoà Hải, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+64-80 Đặng Xuân Thiều, Phường Hoà Hải, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+65-K173 Nguyễn Duy Trinh, Phường Hoà Hải, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+66-Lô 15 B2.19 Khu Đô thị Sinh Thái, Phường Hoà Quý, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+67-67 Nguyễn Đình Chiểu, Phường Khuê Mỹ, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+68-Lô số 3 B2.1 Khu đất tiếp giáp phía Bắc The Marble Hotel & Resort, Phường Hoà Hải, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+69-57 Dương Tụ Quán, Phường Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+70-14 An Thượng 16, Phường Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+71-43 Mộc Sơn 2, Phường Hoà Hải, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+72-410 Võ Nguyên Giáp, Phường Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+73-Thửa đất số 45,tờ bản đồ số 109 đường Mai Đăng Chơn, Phường Hoà Hải, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+74-46 Phan Liêm, Phường Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+75-117 An Dương Vương, Phường Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng
+76-54 Võ Nghĩa, Phường Phước Mỹ, Q. Sơn Trà, TP. Đà Nẵng
+77-181 Dương Đình Nghệ, Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+78-162 Trần Nhân Tông, Phường Mân Thái, Q. Sơn Trà, TP. Đà Nẵng
+79-25 Dương Lâm, Phường Nại Hiên Đông, Q. Sơn Trà, TP. Đà Nẵng
+80-913 Ngô Quyền, Phường An Hải Đông, Q. Sơn Trà, TP. Đà Nẵng
+81-15 đường An Hải Bắc 5, Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+82-K232/6 Nguyễn Công Trứ, Phường An Hải Đông, Q. Sơn Trà, TP. Đà Nẵng
+83-231 Thế Lữ, Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+84-Tầng 2, Du thuyền DHC-Marina, Phường An Hải Tây, Q. Sơn Trà, TP. Đà Nẵng
+85-281 Hồ Nghinh, Phường Phước Mỹ, Q. Sơn Trà, TP. Đà Nẵng
+86-K231/10 Nguyễn Công Trứ, Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+87-Lô A-17, Đường QH (3,0-5,5-3,0), Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+88-82 Loseby, Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+89-91 Võ Duy Ninh, Phường Thọ Quang, Q. Sơn Trà, TP. Đà Nẵng
+90-67 Nguyễn Thị Định, Phường An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng
+91-460/14/6 Trần Cao Vân, Phường Xuân Hà, Q. Thanh Khê, TP. Đà Nẵng
+92-637 - 639 Nguyễn Tất Thành, Phường Xuân Hà, Q. Thanh Khê, TP. Đà Nẵng
+93-32 Hàm Nghi, Phường Vĩnh Trung, Q. Thanh Khê, TP. Đà Nẵng
+94-Khu thương mại S4B, Tòa nhà HAGL Lake View Đà Nẵng, số 72 Hàm Nghi, Phường Thạc Gián, Q. Thanh Khê, TP. Đà Nẵng
+95-282/31 Lê Duẩn, Phường Tân Chính, Q. Thanh Khê, TP. Đà Nẵng
+96-237 Nguyễn Văn Linh, Phường Vĩnh Trung, Q. Thanh Khê, TP. Đà Nẵng
+97-70 Nguyễn Tri Phương, Phường Chính Gián, Q. Thanh Khê, TP. Đà Nẵng
+98-249/33 Hà Huy Tập, Phường Hoà Khê, Q. Thanh Khê, TP. Đà Nẵng
+99-K1A/5 Lê Trọng Tấn, Phường An Khê, Q. Thanh Khê, TP. Đà Nẵng
+100-Số 150 Bế Văn Đàn, Phường Chính Gián, Q. Thanh Khê, TP. Đà Nẵng
+101-186 Nguyễn Văn Linh, Phường Vĩnh Trung, Q. Thanh Khê, TP. Đà Nẵng
+102-339/2 Trần Cao Vân, Phường Xuân Hà, Q. Thanh Khê, TP. Đà Nẵng
+103-214 Vũ Quỳnh, Phường Thanh Khê Tây, Q. Thanh Khê, TP. Đà Nẵng
+104-K58/14 Hà Huy Tập, Phường Thanh Khê Đông, Q. Thanh Khê, TP. Đà Nẵng
+105-609 Trần Cao Vân, Phường Xuân Hà, Q. Thanh Khê, TP. Đà Nẵng
+106-- TP Đà Nẵng - Đà Nẵng
+107-- TP Đà Nẵng - Đà Nẵng
+108-Phường Khuyê Mỹ - TP Đà Nẵng - Đà Nẵng
+109-Tây cầu Tuyên Sơn - TP Đà Nẵng - Đà Nẵng
+110-68 Hồ Xuân Hương - TP Đà Nẵng - Đà Nẵng
+111-Lô 57B, đường số 6, KCN Đà Nẵng - TP Đà Nẵng - Đà Nẵng
+112-01 Thanh Long - TP Đà Nẵng - Đà Nẵng
+113-33 Pasteur - TP Đà Nẵng - Đà Nẵng
+114-Lô M, đường số 5, KCN Hoà Khánh - TP Đà Nẵng - Đà Nẵng
+115-Lô M, đường số 5, KCN Hoà Khánh - TP Đà Nẵng - Đà Nẵng
+116-02 Trần Phú - TP Đà Nẵng - Đà Nẵng
+117-54 Thái Phiên - TP Đà Nẵng - Đà Nẵng
+118-Bãi Nam-Bãi Con , Thọ Quang - TP Đà Nẵng - Đà Nẵng
+119-158 A Nguyễn Chí Thanh - TP Đà Nẵng - Đà Nẵng
+120-Cảng hàng không quốc tế Đà Nẵng - TP Đà Nẵng - Đà Nẵng
