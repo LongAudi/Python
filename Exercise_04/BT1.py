@@ -1,3 +1,4 @@
+from datetime import datetime
 import io
 from itertools import count
 
@@ -49,7 +50,8 @@ with open('./Exercise_04/Output_NgayThanhLap.txt','w',encoding='utf8') as fileou
     count = 1
     for line2 in datalist:
         if x in line2:
-            i = re.sub('Ngày thành lập: ','',line2)
-            y = re.sub('-','',str(i))
-            fileout.write(str(count)+"-"+str(y))
+            i = re.sub('Ngày thành lập: ','',line2).replace(":","").strip()
+            z = datetime.strptime(i,"%d-%m-%Y").strftime("%y%m%d")
+            y = re.sub('-','',str(z))
+            fileout.write(str(count)+"-"+str(y)+"\n")
             count +=1
